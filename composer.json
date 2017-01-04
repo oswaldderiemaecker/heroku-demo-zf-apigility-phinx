@@ -1,6 +1,6 @@
 {
-    "name": "stephanejouvray/demoformation-api",
-    "description": "API de démo",
+    "name": "continuousdemo/demo-apigility",
+    "description": "Apigility-demo",
     "require": {
         "php": ">=5.3.23",
         "zendframework/zendframework": "~2.4",
@@ -17,8 +17,7 @@
         "zfcampus/zf-deploy": "~1.0",
         "phpunit/phpunit": "^4.6",
         "behat/behat": "~3.0",
-        "guzzlehttp/guzzle": "~5.0",
-        "heroku/heroku-buildpack-php": "^v117"
+        "guzzlehttp/guzzle": "~5.0"
     },
     "suggest": {
         "zfcampus/zf-apigility-doctrine": "zfcampus/zf-apigility-doctrine ~1.0 to create Doctrine-Connected REST services",
