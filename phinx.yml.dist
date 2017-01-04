@@ -10,6 +10,6 @@ environments:
         host: @db.host@
         name: @db.dbname@
         user: @db.username@
-        pass: @db.password@
+        pass: '@db.password@'
         port: 3306
         charset: utf8
